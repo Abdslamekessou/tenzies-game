@@ -3,7 +3,7 @@
 A simple dice game built with **React** and **Vite**, inspired by the classic Tenzi game.  
 This project was built while following the **FreeCodeCamp React course**.  
 
-![Tenzies Game](./assets/tenzies.jpg)
+![Tenzies Game](./src/assets/tenzies.jpg)
 
 
 ## 🚀 Live Demo  
